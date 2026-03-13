@@ -46,7 +46,6 @@ A synthetic dataset of **1,000,000 insurance policies** was generated to model r
 Aryaman Bhardwaj  
 Data Analyst | Python | SQL | PySpark | Business Intelligence
 
-## Repository Structure
 insurance-portfolio-analysis
 │
 ├── Insurance Policy Simulation & Analysis.py
