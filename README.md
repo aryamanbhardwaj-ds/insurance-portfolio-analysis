@@ -38,8 +38,6 @@ A synthetic dataset of **1,000,000 insurance policies** was generated to model r
 - Claim activity begins mainly in 2025 when policies become active.
 - Shorter tenure policies tend to be more profitable due to lower risk exposure.
 - An increase in claim frequency can significantly affect portfolio profitability.
-
-- 
 ---
 
 ## Author
